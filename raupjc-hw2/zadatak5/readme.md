@@ -10,7 +10,7 @@ Izvođenje programa je trajalo 1.020281 sekundi.
 # Pitanje 4:
 Operacije su se izvodile na 5 dretvi, tj. svaka operacija se izvodila na zasebnoj dretvi.
 
-#Pitanje 5:
+# Pitanje 5:
 Scenarij: 
 1.dretva A dohvaća vrijednost countera,npr. 5
 2.dretva B istovremeno dohvaća vrijednost countera, također dobiva vrijednost 5
